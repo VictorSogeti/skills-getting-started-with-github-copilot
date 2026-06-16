@@ -161,6 +161,7 @@ button {
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.2s;
+  margin-bottom: 20px;
 }
 
 button:hover {
